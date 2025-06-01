@@ -25,7 +25,6 @@
 ## 🚀 About Me
 
 - **4+ years** building ticket-marketplace infrastructure (venue mapping, event aggregation, inventory pipelines) for high-volume resellers.
-- Led marketplace-intelligence engineering at a \$180M revenue brokerage and founded **TicketVision** to deliver real-time, seat-level insights.
 - Passionate about creating **transparent, data-driven systems** that solve real business needs.
 - Stack: **Python (FastAPI, Pydantic), Redis Streams, PostgreSQL (JSONB + GIN), React/TypeScript (MUIX DataGrid), Docker, GitHub Actions**.
 
